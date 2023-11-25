@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T16:39:52Z" name="Suite" finished-at="2023-11-22T16:39:52Z" duration-ms="65">
+    <groups>
+      <group name="sanity">
+        <method signature="CardTest.TC01_Creditcardtest()[pri:0, instance:testng.CardTest@ba54932]" name="TC01_Creditcardtest" class="testng.CardTest"/>
+        <method signature="LoanTest.tc00_Personalloantest()[pri:0, instance:testng.LoanTest@71c3b41]" name="tc00_Personalloantest" class="testng.LoanTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-11-22T16:39:52Z" name="Test" finished-at="2023-11-22T16:39:52Z" duration-ms="65">
+      <class name="testng.CardTest">
+        <test-method is-config="true" signature="method3()[pri:0, instance:testng.CardTest@ba54932]" started-at="2023-11-22T16:39:52Z" name="method3" finished-at="2023-11-22T16:39:52Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:testng.CardTest@ba54932]" started-at="2023-11-22T16:39:52Z" name="method1" finished-at="2023-11-22T16:39:52Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="TC01_Creditcardtest()[pri:0, instance:testng.CardTest@ba54932]" started-at="2023-11-22T16:39:52Z" name="TC01_Creditcardtest" finished-at="2023-11-22T16:39:52Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Creditcardtest -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testng.CardTest@ba54932]" started-at="2023-11-22T16:39:52Z" name="method2" finished-at="2023-11-22T16:39:52Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method is-config="true" signature="method4()[pri:0, instance:testng.CardTest@ba54932]" started-at="2023-11-22T16:39:52Z" name="method4" finished-at="2023-11-22T16:39:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- testng.CardTest -->
+      <class name="testng.LoanTest">
+        <test-method signature="tc00_Personalloantest()[pri:0, instance:testng.LoanTest@71c3b41]" started-at="2023-11-22T16:39:52Z" name="tc00_Personalloantest" finished-at="2023-11-22T16:39:52Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc00_Personalloantest -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:testng.LoanTest@71c3b41]" started-at="2023-11-22T16:39:52Z" name="method1" finished-at="2023-11-22T16:39:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testng.LoanTest@71c3b41]" started-at="2023-11-22T16:39:52Z" name="method2" finished-at="2023-11-22T16:39:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="tc02_Carloantest()[pri:0, instance:testng.LoanTest@71c3b41]" started-at="2023-11-22T16:39:52Z" name="tc02_Carloantest" finished-at="2023-11-22T16:39:52Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_Carloantest -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:testng.LoanTest@71c3b41]" started-at="2023-11-22T16:39:52Z" name="method1" finished-at="2023-11-22T16:39:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testng.LoanTest@71c3b41]" started-at="2023-11-22T16:39:52Z" name="method2" finished-at="2023-11-22T16:39:52Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- testng.LoanTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
